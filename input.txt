@@ -1,12 +1,1 @@
-ab
-a
-b
-ba
-aab
-abb
-aabb
-aabbbb
-baba
-abab
-abba
-bbbaabba
+
