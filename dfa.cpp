@@ -89,15 +89,16 @@ void check(string s) {
  		
  	if(i!=s.length()) {
  		cout << s << " is Invalid Input\n";
+ 		return;
  	}
- 	else {
-	 	for(i = 0; i < set_of_final_states.size(); i++) {
-	 		if(current_state == set_of_final_states[i]) break;
-	 	}
-	 	
-	 	if(i == set_of_final_states.size()) cout << s << " is Rejected\n";
-	 	else cout << s << " is Accepted\n";
+ 	
+	 for(i = 0; i < set_of_final_states.size(); i++) {
+	 	if(current_state == set_of_final_states[i]) break;
 	 }
+	 	
+	 if(i == set_of_final_states.size()) cout << s << " is Rejected\n";
+	 else cout << s << " is Accepted\n";
+	 
 }
 
 void test() {
