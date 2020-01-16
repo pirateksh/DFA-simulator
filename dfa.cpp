@@ -10,7 +10,7 @@ using namespace std;
 
 
 vector<char> set_of_inputs;
-int initial_state;
+int initial_state = 0;
 int number_of_states;
 vi set_of_final_states;
 vi transition_function[100000];
@@ -49,9 +49,7 @@ void enter_set_of_final_states() {
 }
 
 void enter_initial_state() {
-	cout << "Enter initial state: ";
-	cin >> initial_state;
-	cout << "Initial state has been successfully recorded.\n";
+	cout << "Initial State is assumed to be 0 by default.\n";
 }
 
 void define_transition_function() {
