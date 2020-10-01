@@ -30,6 +30,8 @@ void enter_set_of_inputs() {
 	cout << "Set of inputs have been successfully recorded.\n";
 }
 
+// Comment Added
+
 void enter_total_number_of_states() {
 	cout << "Enter total number of states: ";
 	cin >> number_of_states;
