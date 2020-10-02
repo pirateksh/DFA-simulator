@@ -8,7 +8,7 @@ using namespace std;
 #define si set<char>
 #define pb(v, x) v.push_back(x)
 
-
+// Hello
 vector<char> set_of_inputs;
 int initial_state = 0;
 int number_of_states;
