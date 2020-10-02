@@ -15,7 +15,7 @@ int number_of_states;
 vi set_of_final_states;
 vi transition_function[100000];
 map<char, int> input_to_index;
-
+// Comment
 void enter_set_of_inputs() {
 	int n;
 	char input;
