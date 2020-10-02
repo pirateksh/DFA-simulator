@@ -13,7 +13,7 @@ vector<char> set_of_inputs;
 int initial_state = 0;
 int number_of_states;
 vi set_of_final_states;
-vi transition_function[100000];
+vi transition_function[100000]; // Explain
 map<char, int> input_to_index;
 
 void enter_set_of_inputs() {
