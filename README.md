@@ -24,3 +24,5 @@ A command line simulator for <b>_Deterministic Finite Automata_</b> (DFA).
 
 ## Contributor
 * <a href="https://github.com/pirateksh/">Kshitiz Srivastava</a>
+
+## Thankyou !
