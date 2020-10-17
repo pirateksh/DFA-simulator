@@ -9,7 +9,7 @@ using namespace std;
 #define pb(v, x) v.push_back(x)
 
 
-vector<char> set_of_inputs;
+vector<char> set_of_inputs;asdasd
 int initial_state = 0;
 int number_of_states;
 vi set_of_final_states;
