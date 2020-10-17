@@ -1,5 +1,5 @@
 /* 
-	@author: Kshitiz Srivastava (pirateksh)
+	@author: Kshitiz Srivastava (pirateksh) MNNIT All
 */
 #include<bits/stdc++.h>
 using namespace std;
