@@ -1,5 +1,5 @@
 /* 
-	@author: Kshitiz Srivastava (pirateksh)
+	@author: SP ES (pirateksh)
 */
 #include<bits/stdc++.h>
 using namespace std;
