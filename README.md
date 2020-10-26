@@ -8,7 +8,7 @@ A command line simulator for <b>_Deterministic Finite Automata_</b> (DFA).
 * Firstly, you need to configure the DFA.
 
 ## Configuring DFA
-* <b>Set of inputs: </b> Firstly, enter number of inputs and then enter all the inputs separated by a space.
+* <b>Set of inputs: </b> Firstly, enter number of inputs and then enter all the inputs separated by space.
 * <b>Set of states: </b> You just need to enter total number of states (say n) in your DFA. By default states are numbered from <b>_0_</b> to <b>_n-1_</b>.
 * <b>Set of final states: </b> Firstly, enter number of final states and then enter all the final states (remember set of states are numbered from 0 to n-1, so only enter numbers between 0 and n-1 included) present in your DFA.
 * <b>Initial State :</b> It is assumed to be 0 by default.
