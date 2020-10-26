@@ -5,7 +5,7 @@ A command line simulator for <b>_Deterministic Finite Automata_</b> (DFA).
 * Clone this repository into a folder using <b>git clone</b>.
 * Open terminal and compile the _dfa.cpp_ file. (in Linux terminal use, <b>g++ dfa.cpp</b> to compile).
 * Run the generated _a.out_ file using <b>./a.out</b>.
-* Firstly, you need to configure the DFA.
+* Firstly, you need to configure DFA.
 
 ## Configuring DFA
 * <b>Set of inputs: </b> Firstly, enter number of inputs and then enter all the inputs separated by a space.
