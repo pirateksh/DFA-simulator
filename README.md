@@ -20,7 +20,7 @@ A command line simulator for <b>_Deterministic Finite Automata_</b> (DFA).
 * If you feel like testing on more inputs after the inputs from file are exhausted, you can even give input strings from the command line itself.
 
 ## Output Format 
-* For each input string, the DFA will specify whether the input was <b>Accepted</b>, <b>Rejected</b> or <b>Invalid Input</b>.
+* For each input string, the DFA will specify whether the input was <b>Accepted</b>, <b>Rejected</b> or <b>Invalid</b>.
 
 ## Contributor
 * <a href="https://github.com/pirateksh/">Kshitiz Srivastava</a>
