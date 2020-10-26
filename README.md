@@ -17,7 +17,7 @@ A command line simulator for <b>_Deterministic Finite Automata_</b> (DFA).
 
 ## Testing DFA
 * Test inputs can be written in _input.txt_ file separated by a new line character i.e. one input string per line. The configured DFA will automatically test these input strings which are specified in this file.
-* If you feel like testing on more inputs after the inputs from file are exhausted, you can even give input strings from the command line itself.
+* If you feel like testing on more inputs after the inputs from a file are exhausted, you can even give input strings from the command line itself.
 
 ## Output Format 
 * For each input string, the DFA will specify whether the input was <b>Accepted</b>, <b>Rejected</b> or <b>Invalid Input</b>.
